@@ -1,4 +1,4 @@
-<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/3daf499a-dd8b-4cf2-8adf-f6d885a5d3c1" /># UAS_Web2_312410194_PutriMelatI
+# UAS_Web2_312410194_PutriMelatI
 # E-Inventory - Sistem Manajemen Inventaris Barang
 
 **Nama:** Putri Melati Ramadhaniati  
@@ -48,7 +48,7 @@ Aplikasi menggunakan 4 tabel yang saling berelasi:
 - `transaksi_stok` - histori keluar masuk stok (relasi ke barang dan users)
 
 > Screenshot skema relasi tabel (phpMyAdmin Designer) terlampir di bawah.
-
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/3daf499a-dd8b-4cf2-8adf-f6d885a5d3c1" />
 ---
 
 ## Screenshot Aplikasi
