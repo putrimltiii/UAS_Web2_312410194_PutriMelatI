@@ -1,4 +1,5 @@
-# UAS_Web2_312410194_PutriMelatI
+# UAS_Web2_312410194_PutriMelati
+
 # E-Inventory - Sistem Manajemen Inventaris Barang
 
 **Nama:** Putri Melati Ramadhaniati  
@@ -48,14 +49,15 @@ Aplikasi menggunakan 4 tabel yang saling berelasi:
 - `transaksi_stok` - histori keluar masuk stok (relasi ke barang dan users)
 
 > Screenshot skema relasi tabel (phpMyAdmin Designer) terlampir di bawah.
+
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/3daf499a-dd8b-4cf2-8adf-f6d885a5d3c1" />
+
 ---
 
 ## Screenshot Aplikasi
 
 ### Skema Relasi Database
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/ce82487e-d89a-441b-b598-af8c06eb375c" />
-
 
 ### Uji API Gagal (Error 401) via Postman
 <img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/b04ba6ad-cf71-4315-849f-15d1fe0c8851" />
@@ -80,6 +82,7 @@ Aplikasi menggunakan 4 tabel yang saling berelasi:
 ## Petunjuk Instalasi
 
 ### Kebutuhan Sistem
+
 - XAMPP (PHP 8.1+, MySQL)
 - Composer
 - Browser modern
@@ -89,3 +92,38 @@ Aplikasi menggunakan 4 tabel yang saling berelasi:
 1. Clone repository ini
 2. Masuk ke folder `backend-api`
 3. Copy file `env` menjadi `.env` lalu isi konfigurasi:
+   ```
+   CI_ENVIRONMENT = development
+   database.default.hostname = localhost
+   database.default.database = db_inventaris
+   database.default.username = root
+   database.default.password =
+   database.default.DBDriver = MySQLi
+   ```
+4. Import file `db_inventaris.sql` (tersedia di root folder repo ini) ke phpMyAdmin
+5. Jalankan XAMPP (Apache + MySQL)
+6. Akses backend di `http://localhost/backend-api/public`
+
+### Langkah Menjalankan Frontend
+
+1. Masuk ke folder `frontend-spa`
+2. Buka file `index.html` melalui browser:
+   `http://localhost/frontend-spa/index.html`
+3. Login dengan akun default:
+   - Username: `admin`
+   - Password: `password`
+
+---
+
+## Akun Default
+
+| Username | Password | Role  |
+|----------|----------|-------|
+| admin    | password | Admin |
+
+---
+
+## Link Demo & Presentasi
+
+- **Link Demo:** http://localhost/frontend-spa/index.html
+- **Link Video YouTube:** *(akan diupdate setelah upload)*
