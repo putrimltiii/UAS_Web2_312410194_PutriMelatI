@@ -1,4 +1,4 @@
-# UAS_Web2_312410194_PutriMelatI
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/3daf499a-dd8b-4cf2-8adf-f6d885a5d3c1" /># UAS_Web2_312410194_PutriMelatI
 # E-Inventory - Sistem Manajemen Inventaris Barang
 
 **Nama:** Putri Melati Ramadhaniati  
@@ -54,25 +54,26 @@ Aplikasi menggunakan 4 tabel yang saling berelasi:
 ## Screenshot Aplikasi
 
 ### Skema Relasi Database
-![Skema Database](screenshots/skema_database.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/ce82487e-d89a-441b-b598-af8c06eb375c" />
+
 
 ### Uji API Gagal (Error 401) via Postman
-![Error 401](screenshots/error_401.png)
+<img width="1456" height="819" alt="image" src="https://github.com/user-attachments/assets/b04ba6ad-cf71-4315-849f-15d1fe0c8851" />
 
 ### Halaman Login
-![Login](screenshots/login.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/35e5a51a-c76f-4539-9bb1-874aef67692c" />
 
 ### Halaman Dashboard Admin
-![Dashboard](screenshots/dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b86eae71-860f-4a09-aa23-35ff67875c50" />
 
 ### Form Modal Tambah/Edit Data
-![Modal](screenshots/modal.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d4d2cd58-cb02-411b-aece-4b3fe4d208fb" />
 
 ### Halaman Data Barang
-![Barang](screenshots/barang.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/256fd36a-963f-4e3a-98b3-917632dacf73" />
 
 ### Halaman Data Kategori
-![Kategori](screenshots/kategori.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/41297244-19c9-4783-9d51-29e23e2e8ba5" />
 
 ---
 
